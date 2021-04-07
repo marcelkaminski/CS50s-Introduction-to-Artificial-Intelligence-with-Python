@@ -1,3 +1,4 @@
 *.pyc 
 tictactoe/.vscode/settings.json
 shopping/.vscode/settings.json
+traffic/.vscode/settings.json
